@@ -1,0 +1,7 @@
+[project]
+name = "ppuek"
+version = "0.1.0"
+description = "Zadania pp uek"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []

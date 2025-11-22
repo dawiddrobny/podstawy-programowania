@@ -5,6 +5,6 @@ build/
 dist/
 wheels/
 *.egg-info
-
+prg-basics/
 # Virtual environments
 .venv

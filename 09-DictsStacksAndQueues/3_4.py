@@ -21,9 +21,6 @@ def decimal_to_binary(n):
     return binary_string
 
 
-print(f"Natural number: {number}")
-print(f"Binary number: {binary_result}")
-
 # Allow user input
 try:
     user_input = int(input("\nEnter a natural number to convert: "))
